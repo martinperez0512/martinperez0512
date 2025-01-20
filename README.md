@@ -1,4 +1,4 @@
-# Martin Perez Paz
+# Martín Perez Paz
 
 3rd year Computer Science + Econ @ Queen's University
 
